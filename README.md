@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @m007ko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning at PowerCoders Bootcamp
+- 👋 Hi, I’m Mariia 
+- 👀 I’m interested in sustainability, personal growth and technology. 
+- 🌱 I’m currently learning at PowerCoders Bootcamp. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me here or at Linkedin. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like chellenges. 
 
